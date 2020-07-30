@@ -1,0 +1,6 @@
+D:\yazlab\sudoku\sudoku\bin\Debug\sudoku.exe.config
+D:\yazlab\sudoku\sudoku\bin\Debug\sudoku.exe
+D:\yazlab\sudoku\sudoku\bin\Debug\sudoku.pdb
+D:\yazlab\sudoku\sudoku\obj\Debug\sudoku.csprojResolveAssemblyReference.cache
+D:\yazlab\sudoku\sudoku\obj\Debug\sudoku.exe
+D:\yazlab\sudoku\sudoku\obj\Debug\sudoku.pdb
